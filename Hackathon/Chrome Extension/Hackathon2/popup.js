@@ -1,0 +1,1 @@
+// This file can be left empty or used for additional functionality in the popup
